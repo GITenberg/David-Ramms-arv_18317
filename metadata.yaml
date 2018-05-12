@@ -1,0 +1,27 @@
+_repo: David-Ramms-arv_18317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andersson, Dan
+    birthdate: 1888
+    deathdate: 1920
+    gutenberg_agent_id: '7941'
+    url: http://www.gutenberg.org/2009/agents/7941
+    wikipedia: http://en.wikipedia.org/wiki/Dan_Andersson
+description: ''
+gutenberg_issued: '2006-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18317'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: David Ramms arv
+url: http://www.gutenberg.org/ebooks/18317
