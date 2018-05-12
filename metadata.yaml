@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7941
     wikipedia: http://en.wikipedia.org/wiki/Dan_Andersson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18317#David-Ramms-arv
 gutenberg_issued: '2006-05-05'
 gutenberg_type: Text
 identifiers:
